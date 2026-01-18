@@ -1,1 +1,13 @@
 TODO: Update contents of this later
+
+1. INTRODUCTION
+
+2. BACKGROUND
+
+3. TOOLS I USED
+
+4. THE ANALYSIS
+
+5. WHAT I LEARNED
+
+6. CONCLUSIONS
