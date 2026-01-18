@@ -1,5 +1,3 @@
-TODO: Update contents of this later
-
 # INTRODUCTION
 
 Purpose of this project is to gain some experiance in SQL world and also to dive into data job market and explore it!
