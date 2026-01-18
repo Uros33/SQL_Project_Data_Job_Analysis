@@ -48,7 +48,7 @@ LIMIT 10;
 ```
 Top 10 paying data scientist roles span from $300,000 to $550,000, indicating significant salary potential in the field.
 
-![Top-Paying Data Scientist Jobs](assets\top_paying_remote_data_scientist_roles.png)
+![Top-Paying Data Scientist Jobs](assets/top_paying_remote_data_scientist_roles.png)
 
 
 ## 2. Skills Required for Top-Paying Data Scientist Jobs
@@ -104,7 +104,7 @@ ORDER BY
     demand_count DESC
 LIMIT 5
 ```
-![In-Demand Skills:](assets\top_in_demand_skills.png)
+![In-Demand Skills:](assets/top_in_demand_skills.png)
 
 ## 4. Skills Associated with Higher Salaries
 
@@ -185,7 +185,7 @@ ORDER BY
 LIMIT 25
 ```
 The most optimal skills to learn (high demand and a high-paying skills) 4 out of 5 skills from top 5 in-demanded: 
-    ![Optimal Skills: ](assets\optimal_skills_demand_vs_salary.png)
+    ![Optimal Skills: ](assets/optimal_skills_demand_vs_salary.png)
              
 AWS emerges as a high-paying skill, suggesting that cloud expertise significantly enhances earning potential.
 
